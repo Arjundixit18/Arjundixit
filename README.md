@@ -32,17 +32,38 @@
 
 - 📫 How to reach me **dixitarjun249@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjun-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-dixit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arjun-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arjun-dixit" height="30" width="40" /></a>
-<a href="https://instagram.com/i_dixitarjun18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_dixitarjun18" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dixitarjun249" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dixitarjun249" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dixitarjun249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dixitarjun249" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arjundixit18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjundixit18" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dixitarjun249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dixitarjun249" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dixitar9ykp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dixitar9ykp" height="30" width="40" /></a>
-</p>
+  <h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+ 
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://auth.geeksforgeeks.org/user/dixitar9ykp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://instagram.com/i_dixitarjun18"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://linkedin.com/in/arjun-dixit"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://stackoverflow.com/users/arjun-dixit"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.codechef.com/users/dixitarjun249"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dixitarjun249" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.hackerrank.com/dixitarjun249"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.leetcode.com/arjundixit18"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.hackerearth.com/@dixitarjun249"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="60"></a>
+    </td>
+</tr>
+</table>
+
 
 
 ----
@@ -128,11 +149,11 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjundixit18&theme=radical" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanipandey5678&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundixit18&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <!-- Banner Image -->  
-[![ARJUN's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjundixit18&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ARJUN's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arjundixit18&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/arjundixit18/github-readme-activity-graph)
 
 
 <div align="center">
