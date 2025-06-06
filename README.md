@@ -1,13 +1,20 @@
 <!-- Banner Image -->  
-
+<h1 align="center">Hi 👋, I'm Arjun Dixit</h1>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="center">
 <img src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif" alt="coding animation" width="100%" />
 </p>
 
+<!--   my-ticker -->
 
-<h1 align="center">Hi 👋, I'm Arjun Dixit</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Arjun+Dixit;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member">
+  </a>
+</div>
+
+
 
 
 <!-- Profile Views Counter -->
