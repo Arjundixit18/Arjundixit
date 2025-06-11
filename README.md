@@ -87,10 +87,10 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg">
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
@@ -121,18 +121,18 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/apache_apex/apache_apex-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="110">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" width="110">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg">
